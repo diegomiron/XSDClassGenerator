@@ -1,4 +1,6 @@
-﻿namespace XSDClassGenerator
+﻿using System.Windows.Forms;
+
+namespace XSDClassGenerator
 {
     partial class XSDClassGenerator
     {
